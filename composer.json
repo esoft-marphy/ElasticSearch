@@ -21,7 +21,7 @@
 		"tracy/tracy": "~2.4@dev",
 		"nette/utils": "~2.4@dev",
 
-		"ruflin/elastica": "~5.1.0"
+		"ruflin/elastica": "^5.2.0"
 	},
 	"require-dev": {
 		"nette/application": "~2.3@dev",
